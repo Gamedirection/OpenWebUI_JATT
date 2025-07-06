@@ -1,0 +1,3 @@
+([('OpenWebUI Chat Exporter',
+   '/Users/apples2apples/Documents/bk/dist/OpenWebUI Chat Exporter',
+   'EXECUTABLE')],)
